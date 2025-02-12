@@ -1,6 +1,4 @@
 # Online Library System
-
-## Overview
 An online library system built with React, Redux, and React Router. This application allows users to browse, add, and view book details.
 
 ## Features
