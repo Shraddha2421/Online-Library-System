@@ -17,7 +17,7 @@ An online library system built with React, Redux, and React Router. This applica
 - **JavaScript**: Implements the core functionality, interactivity, and logic for the application.  
 
 ## Project Structure
-
+```
 ├── src/
 │ ├── components/
 │ │ ├── Navbar.jsx
@@ -41,12 +41,12 @@ An online library system built with React, Redux, and React Router. This applica
 ├── package.json
 ├── README.md
 ├── vite.config.js
-
+```
 ## Installation
 
 **1. Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/Online-Library-System.git
+   git clone https://github.com/Shraddha2421/Online-Library-System.git
    cd Online-Library-System
    ```
 **2. Install Dependencies:**
